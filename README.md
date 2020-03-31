@@ -6,7 +6,7 @@
 
 1.在terminal裡用wget指令新增Rasdaman repository 
 
-```consolesudo
+```console
 user@ubuntu:~$ sudo wget -O - https://download.rasdaman.org/packages/rasdaman.gpg | sudo apt-key add -
 ```
 
